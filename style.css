@@ -48,7 +48,7 @@ input {
 }
 
 .background-image {
-  background-image: url(/background-big.jpg);
+  background-image: url(https://github.com/IHaveTheSourceCode/sign_up_form/blob/main/background-big.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
